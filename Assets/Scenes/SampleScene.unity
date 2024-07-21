@@ -1109,6 +1109,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1624644943339879785, guid: 222197ede85713840a4ff306797e0144, type: 3}
+      propertyPath: moveSpeed
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3514738626010893106, guid: 222197ede85713840a4ff306797e0144, type: 3}
       propertyPath: m_Name
       value: Blue Slime (1)
